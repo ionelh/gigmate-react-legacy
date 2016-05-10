@@ -1,0 +1,20 @@
+{
+  "name": "react-redux-boilerplate",
+  "version": "0.0.0",
+  "description": "Server for the react redux boilerplate client",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.4.3",
+    "express": "^4.4.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "gulp test",
+    "start": "node server.js"
+  },
+  "author": "Ionel H.",
+  "engines" : {
+    "node" : "0.12.x"
+  },
+  "license": "ISC"
+}
