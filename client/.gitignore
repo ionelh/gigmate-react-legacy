@@ -1,0 +1,16 @@
+# system files
+.DS_Store
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency
+node_modules
+
+# unit-testing coverage
+coverage
+
+# build related
+build
