@@ -1,6 +1,11 @@
 # system files
 .DS_Store
 
+# editor files
+*.idea
+*.iml
+*nbproject
+
 # Logs
 logs
 *.log
